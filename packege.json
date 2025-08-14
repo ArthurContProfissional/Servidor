@@ -4,12 +4,13 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "npm install"  // ← Adicione esta linha!
+    "build": "npm install"
   },
   "dependencies": {
     "express": "^4.18.2"
   },
   "engines": {
-    "node": "18.x"  // ← Especifique a versão do Node!
+    "node": "18.x"
   }
 }
+
